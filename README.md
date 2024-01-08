@@ -1,8 +1,6 @@
-# My Git Profile
+# Hi, I am Abdullahil Kafi
 
-## Introduction
-
-Hello, I'm Kafi. Welcome to my Git profile! Here you will find information about me and my projects.
+Welcome to my Git profile! Here you will find information about me and my projects.
 
 
 [LinkedIn](https://www.linkedin.com/in/your-username) | [Medium](https://kafiabdullahil96.medium.com/)
