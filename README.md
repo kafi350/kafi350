@@ -3,7 +3,7 @@
 Welcome to my Git profile! Here you will find information about me and my projects.
 
 
-[LinkedIn](https://www.linkedin.com/in/your-username) | [Medium](https://kafiabdullahil96.medium.com/)
+[LinkedIn](https://www.linkedin.com/in/abdullahil-kafi120/) | [Medium](https://kafiabdullahil96.medium.com/)
 
 ## About Me
 
