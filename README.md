@@ -11,14 +11,13 @@ I am a passionate Software developer and Machine Learning enthusiast with experi
 
 ## Projects
 
-- [Gutenberg-fiction-genre-detection](https://github.com/kafi350/Gutenberg-fiction-genre-detection) : Simple Machine learning project for detecting genre based on textual features. 
+- [Gutenberg-fiction-genre-detection](https://github.com/kafi350/Gutenberg-fiction-genre-detection): Simple Machine learning project for detecting genre based on textual features. 
 - [HL7toCSV](https://github.com/kafi350/HL7toCSV) : A Python Script to easily convert a HL7 Medical Data to CSV
-- [MPA_Pathway_Tool](https://github.com/kafi350/MPA_Pathway_Tool) : Contributed to this React Project for some feature development.
-- [Time-Series-Steel-Price-Forecasting](https://github.com/kafi350/Time-Series-Steel-Price-Forecasting) : Time Series analysis using different Statistical, Machine learning and Deep learning model.
-- [FdToSql](https://github.com/kafi350/FdToSql) : Easiy tool to convert FD Files to SQL.
+- [Time-Series-Steel-Price-Forecasting](https://github.com/kafi350/Time-Series-Steel-Price-Forecasting): Time Series Analysis using different Statistical, Machine learning, and Deep learning model.
+- [FdToSql](https://github.com/kafi350/FdToSql): Easiy tool to convert FD Files to SQL.
 - [DockerPhp8.2](https://github.com/kafi350/DockerPhp8.2) : Php8.2 Docker Container for Mac M1/M2.
 - [Audio Segmentation and Classification](https://github.com/kafi350/audioAnalysis) : Audio Classification and Segmentation tool. Classification of Human Voice, Gender and Emotion, and Authenticity of the Speaker.
-- [Prayer Time App with Flutter (iOS/Android)](https://github.com/kafi350/prayApp): Showing Prayer time based on location and setting notifications for each prayer. Different methods and schools can be selected as well.
+- [Prayer Time App with Flutter (iOS/Android)](https://github.com/kafi350/pray_app): This app Shows Prayer time based on location and sets notifications for each prayer. Different methods and schools can also be selected.
 
 
 Feel free to reach out to me via email at [kafiabdullahil96@gmail.com](mailto:kafiabdullahil96@gmail.com).
