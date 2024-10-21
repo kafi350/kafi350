@@ -17,6 +17,7 @@ I am a passionate Software developer and Machine Learning enthusiast with experi
 - [FdToSql](https://github.com/kafi350/FdToSql): Easiy tool to convert FD Files to SQL.
 - [DockerPhp8.2](https://github.com/kafi350/DockerPhp8.2) : Php8.2 Docker Container for Mac M1/M2.
 - [Audio Segmentation and Classification](https://github.com/kafi350/audioAnalysis) : Audio Classification and Segmentation tool. Classification of Human Voice, Gender and Emotion, and Authenticity of the Speaker.
+- [Portfolio Using Svelte](https://github.com/kafi350/portfolio-svelte): This is a simple portfolio using Svelte. You can easily create your own by forking this!
 - [Prayer Time App with Flutter (iOS/Android)](https://github.com/kafi350/pray_app): This app Shows Prayer time based on location and sets notifications for each prayer. Different methods and schools can also be selected.
 
 
